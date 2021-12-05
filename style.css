@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.yoga-logo {
+    display: block;
+    margin: 195px; auto; 122px; auto;
+}
