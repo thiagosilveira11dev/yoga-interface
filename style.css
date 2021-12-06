@@ -3,10 +3,70 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-    background-color: #E5E5E5;
+    background-color: #FFFFFF;
 }
 
 .yoga-logo {
     display: block;
-    margin: 195px; auto; 122px; auto;
+    margin: 195px auto 122px auto;
+}
+
+.username, .password {
+    display: block;
+    margin: 0px auto 21px auto;
+    width: 321px;
+    height: 46px;
+    background-color: #F7F7F7;
+    border: none;
+    border-radius: 10px;
+    padding: 19px;
+}
+
+.forgot {
+    display: block;
+    text-align: right;
+    margin-right: 59px;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.login {
+    display: block;
+    margin: 29px auto auto auto;
+    text-align: center;
+    width: 133px;
+    height: 46px;
+    background: #323232;
+    border-radius: 10px;
+    border: none;
+    color: #F7F7F7;
+}
+
+.sign {
+    display: block;
+    margin: 19px auto auto auto;
+    text-align: center;
+    font-size: 15px;
+    color: #969696;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+p {
+    display: block;
+    margin: 62px auto auto auto;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.logos {
+    text-align: center;
+    margin-top: 18px;
+}
+
+.dots-logo, .facebook-logo {
+    margin-left: 16px;
 }
